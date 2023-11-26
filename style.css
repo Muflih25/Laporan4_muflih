@@ -2,6 +2,7 @@ body {
     width: 100%;
     margin: 30px;
     background-color: antiquewhite;
+    justify-content: center;
 }
 
 #profile-container {
@@ -9,6 +10,7 @@ body {
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
+    margin-left: 40%;
 }
 
 #profile-image {
@@ -34,6 +36,7 @@ body {
 #profile-container {
   text-align: center;
   margin-top: 50px;
+  
 }
 
 #profile-image {
