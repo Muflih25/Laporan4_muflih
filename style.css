@@ -24,14 +24,7 @@ body {
 
 /* style.css */
 
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 20px;
-  background-color: #f4f4f4;
-  color: #333;
-}
+
 
 #profile-container {
   text-align: center;
